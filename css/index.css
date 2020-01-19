@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+fieldset{
+    border: 1.5px solid #DCDCDC;
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.item{
+    color: #696969;
+    font-style: italic;
+    padding-bottom: 15px;
+}
